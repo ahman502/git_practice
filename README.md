@@ -12,3 +12,8 @@ Hello World
 
 1. Hello world
 2. Hello world
+
+
+Photo of GitHub below
+
+![GitHub Image](github.png)
